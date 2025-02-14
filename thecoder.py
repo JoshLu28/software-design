@@ -1,1 +1,1 @@
-print("carl has small brick")
+print("carl has small bick")
